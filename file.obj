@@ -1,0 +1,11 @@
+Push a
+Push b
+Pop r1
+Pop r2
+Add r2, r1
+Push r2
+Push 10
+Pop r1
+Pop r2
+Mult r2, r1
+Push r2
